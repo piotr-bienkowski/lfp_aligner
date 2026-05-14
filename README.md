@@ -1,7 +1,7 @@
 # lfp_aligner
 Python 3 port of the original LF Aligner written in Perl
 
-# lfp\_aligner — User Manual
+## lfp\_aligner — User Manual
 
 *(The **p** in `lfp\_aligner` stands for **Python**.)*
 
@@ -243,7 +243,7 @@ python -m lfp\_aligner --gui
 python -m lfp\_aligner en.txt pl.txt de.txt --langs en pl de
 ```
 
-### 6.2 Worked examples
+### 6.2 Use examples
 
 **Align two plain text files:**
 
@@ -949,9 +949,5 @@ A log file is written to `\<output\_dir\>/lfp\_aligner.log` for every CLI run. 
 
 - **XLS/XLSX round-trip review** (write → edit → re-import)
 
-### Feature requests, etc.
-
-If you'd like me to add a feature, for example more file formats supported for alignment, please buy me a coffee at https://buycoffee.to/onepolishtranslator to motivate me, and then make your request.
-
-
 These can be added as future modules following the same architecture.
+
