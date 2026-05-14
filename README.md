@@ -951,3 +951,7 @@ A log file is written to `\<output\_dir\>/lfp\_aligner.log` for every CLI run. 
 
 These can be added as future modules following the same architecture.
 
+### Requests for features, etc.
+
+If you'd like me to add a feature, for example more supported file formats, please buy me a coffee here https://cuplink.to/onepolishtranslator to motivate me ;-) and then make the request.
+
